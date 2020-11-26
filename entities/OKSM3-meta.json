@@ -1,0 +1,29 @@
+{
+  "external_url": "https://rmrk.app/registry/241B8516516F381A-OBXM",
+  "image": "ipfs://ipfs/QmScrBJ95rbLUqTMcbuG9X1VDw9wiwG9cwfGCop44LFgR4",
+  "description": "obxium special edition art",
+  "name": "Kusama Dodecahedron",
+  "attributes": [
+    {
+      "trait_type": "Artist",
+      "value": "obxium"
+    },
+    {
+      "trait_type": "Year Created",
+      "value": "2020"
+    },
+    {
+      "trait_type": "Serial Number",
+      "value": "0000000000000003"
+    },
+    {
+      "trait_type": "Art media type",
+      "value": "image/png"
+    },
+    {
+      "trait_type": "Art media SHA256",
+      "value": "23b3136d07e962cc5edb51d6e167d3e2fdcf46a275ea60111339627542ee95c6"
+    }    
+  ],
+  "background_color": "000000"
+}

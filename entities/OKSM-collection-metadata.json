@@ -1,0 +1,23 @@
+{
+  "description": "Genesis limited edition obxium art Kusama NFTs",
+  "attributes": [
+    {
+      "trait_type": "Artist",
+      "value": "obxium"
+    },
+    {
+      "trait_type": "Year Created",
+      "value": "2020"
+    },
+    {
+      "trait_type": "Blockchain",
+      "value": "Kusama"
+    },
+    {
+      "trait_type": "NFT Type",
+      "value": "RMRK version 0.1"
+    }
+  ],
+  "external_url": "https://obxium.com",
+  "image": "ipfs://ipfs/QmbJ86QAZVjtcLQzPfGoraufx3CT5ChbANroG9poQLxt2Q"
+}

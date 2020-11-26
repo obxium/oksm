@@ -1,0 +1,29 @@
+{
+  "external_url": "https://rmrk.app/registry/241B8516516F381A-OBXM",
+  "image": "ipfs://ipfs/QmeMVoFhNsJ7x8ezSTLPStDruGUkvB8tRRmJXeFRRpQSgt",
+  "description": "obxium special edition art",
+  "name": "Kusama Icosahedron",
+  "attributes": [
+    {
+      "trait_type": "Artist",
+      "value": "obxium"
+    },
+    {
+      "trait_type": "Year Created",
+      "value": "2020"
+    },
+    {
+      "trait_type": "Serial Number",
+      "value": "0000000000000005"
+    },
+    {
+      "trait_type": "Art media type",
+      "value": "image/png"
+    },
+    {
+      "trait_type": "Art media SHA256",
+      "value": "72ff388ec88566d54ecd57f1fe42626ebdd86fad20af95562128dcc642b099db"
+    }    
+  ],
+  "background_color": "000000"
+}

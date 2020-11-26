@@ -1,0 +1,29 @@
+{
+  "external_url": "https://rmrk.app/registry/241B8516516F381A-OBXM",
+  "image": "ipfs://ipfs/QmYtRcHi9VKroQ8JeNR4a8uRJ2v2fiC9tB4VwMsWXeBATe",
+  "description": "obxium special edition art",
+  "name": "Kusama Tetrahedron",
+  "attributes": [
+    {
+      "trait_type": "Artist",
+      "value": "obxium"
+    },
+    {
+      "trait_type": "Year Created",
+      "value": "2020"
+    },
+    {
+      "trait_type": "Serial Number",
+      "value": "0000000000000002"
+    },
+    {
+      "trait_type": "Art media type",
+      "value": "image/png"
+    },
+    {
+      "trait_type": "Art media SHA256",
+      "value": "53f0b0548e0b5dbe2db3f4be39105cee56d4570ca1c67aef069e7151183decc5"
+    }    
+  ],
+  "background_color": "000000"
+}
